@@ -11,5 +11,6 @@ A wee paradigm as a keepsake for the mind:
 <span style="color: red"> Integration Tests: </span>
 ✑ Functions with callbacks and dependencies: Moderate;
 <span style="color: purple"> End to End Tests: </span>
-✑ Full Flow
+✑ Full Flow: High
+
 
