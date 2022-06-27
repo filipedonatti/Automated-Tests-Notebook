@@ -2,8 +2,6 @@
 This is a personal guide and roadmap, created for the purpose of coding automised testing methods for future reference. 
 
 
-A wee paradigm as a keepsake for the mind: 
-
 > **Complexity of tests engineering**:  
 >
 ><span style="color: orange"> Unit Tests:  </span><br>
